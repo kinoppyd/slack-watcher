@@ -1,0 +1,11 @@
+channel:
+  created: "%{channel_name} is created"
+  rename: "%{old_channel_name} renamed to %{channel_name}"
+  archive: "%{channel_name} is archived"
+  unarchive: "%{channel_name} is unarchived"
+  deleted: "%{channel_name} is deleted"
+bot:
+  add: "New bot %{bot_name} added, ID is %{bot_id}"
+emoji:
+  add: "New emoji %{name} added: %{url}"
+  remove: "Emoji %{name} deleted"
